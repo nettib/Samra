@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Social Media API
 
 A comprehensive RESTful API for a social media platform built with Node.js and Express. This API provides complete functionality for user management, posts, comments, likes, bookmarks, and file uploads.
@@ -381,5 +380,5 @@ All API responses follow a consistent format:
 
 ⭐ If you find this project helpful, please consider giving it a star!
 =======
->>>>>>> 6e7debb134c8ca5d78ae935b5ec01e4633498ad5
+
 
